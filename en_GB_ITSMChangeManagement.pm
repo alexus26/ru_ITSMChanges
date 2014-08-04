@@ -98,7 +98,7 @@ sub Data {
     $Self->{Translation}->{'RequestedTime'} = 'Необходимое время';
     $Self->{Translation}->{'Save Change CAB as Template'} = 'Сохранить изменение CAB как шаблон';
     $Self->{Translation}->{'Save change as a template'} = 'Сохранить изменение как шаблон';
-    $Self->{Translation}->{'Save workorder as a template'} = '';
+    $Self->{Translation}->{'Save workorder as a template'} = 'Сохранить задание как шаблон';
     $Self->{Translation}->{'Search Changes'} = '';
     $Self->{Translation}->{'Set the agent for the workorder'} = '';
     $Self->{Translation}->{'Take Workorder'} = '';
