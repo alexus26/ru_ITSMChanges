@@ -178,125 +178,125 @@ sub Data {
     $Self->{Translation}->{'Submit'} = 'Подтвердить';
 
     # Template: AdminITSMChangeNotification
-    $Self->{Translation}->{'ITSM ChangeManagement Notification Management'} = '';
-    $Self->{Translation}->{'Actions'} = '';
-    $Self->{Translation}->{'Go to overview'} = '';
-    $Self->{Translation}->{'Add Notification Rule'} = '';
-    $Self->{Translation}->{'List'} = '';
-    $Self->{Translation}->{'Name'} = '';
-    $Self->{Translation}->{'Event'} = '';
-    $Self->{Translation}->{'Attribute'} = '';
-    $Self->{Translation}->{'Rule'} = '';
-    $Self->{Translation}->{'Recipients'} = '';
-    $Self->{Translation}->{'valid'} = '';
-    $Self->{Translation}->{'invalid'} = '';
-    $Self->{Translation}->{'A notification should have a name!'} = '';
-    $Self->{Translation}->{'Name is required.'} = '';
-    $Self->{Translation}->{'Valid'} = '';
-    $Self->{Translation}->{'Comment'} = '';
-    $Self->{Translation}->{'or'} = '';
-    $Self->{Translation}->{'Cancel'} = '';
+    $Self->{Translation}->{'ITSM ChangeManagement Notification Management'} = 'Управление изменениями: управление уведомлениями';
+    $Self->{Translation}->{'Actions'} = 'Действия';
+    $Self->{Translation}->{'Go to overview'} = 'Перейти к обзору';
+    $Self->{Translation}->{'Add Notification Rule'} = 'Добавить правило уведомления';
+    $Self->{Translation}->{'List'} = 'Список';
+    $Self->{Translation}->{'Name'} = 'Наименование';
+    $Self->{Translation}->{'Event'} = 'Событие';
+    $Self->{Translation}->{'Attribute'} = 'Атрибут';
+    $Self->{Translation}->{'Rule'} = 'Правило';
+    $Self->{Translation}->{'Recipients'} = 'Получатели';
+    $Self->{Translation}->{'valid'} = 'действительный';
+    $Self->{Translation}->{'invalid'} = 'недействительный';
+    $Self->{Translation}->{'A notification should have a name!'} = 'Уведомление должно иметь наименование';
+    $Self->{Translation}->{'Name is required.'} = 'Требуется наименование';
+    $Self->{Translation}->{'Valid'} = 'Действительный';
+    $Self->{Translation}->{'Comment'} = 'Комментарий';
+    $Self->{Translation}->{'or'} = 'или';
+    $Self->{Translation}->{'Cancel'} = 'Отмена';
 
     # Template: AdminITSMStateMachine
-    $Self->{Translation}->{'Admin State Machine'} = '';
-    $Self->{Translation}->{'Select a catalog class!'} = '';
-    $Self->{Translation}->{'A catalog class is required!'} = '';
-    $Self->{Translation}->{'Add'} = '';
-    $Self->{Translation}->{'Add a state transition'} = '';
-    $Self->{Translation}->{'Catalog Class'} = '';
-    $Self->{Translation}->{'Object Name'} = '';
-    $Self->{Translation}->{'Overview over state transitions for'} = '';
-    $Self->{Translation}->{'State'} = '';
-    $Self->{Translation}->{'Next state'} = '';
-    $Self->{Translation}->{'Delete'} = '';
-    $Self->{Translation}->{'Delete this attachment'} = '';
-    $Self->{Translation}->{'Add a new state transition for'} = '';
-    $Self->{Translation}->{'Please select a state!'} = '';
-    $Self->{Translation}->{'Please select a next state!'} = '';
-    $Self->{Translation}->{'Edit a state transition for'} = '';
-    $Self->{Translation}->{'Save'} = '';
-    $Self->{Translation}->{'Do you really want to delete the state transition'} = '';
-    $Self->{Translation}->{'from'} = '';
-    $Self->{Translation}->{'to'} = '';
-    $Self->{Translation}->{'No'} = '';
-    $Self->{Translation}->{'Yes'} = '';
+    $Self->{Translation}->{'Admin State Machine'} = 'Управление состояниями';
+    $Self->{Translation}->{'Select a catalog class!'} = 'Выберите класс из каталога.';
+    $Self->{Translation}->{'A catalog class is required!'} = 'Требуется класс каталога.';
+    $Self->{Translation}->{'Add'} = 'Добавить';
+    $Self->{Translation}->{'Add a state transition'} = 'Добавить изменение состояния';
+    $Self->{Translation}->{'Catalog Class'} = 'Класс Каталога';
+    $Self->{Translation}->{'Object Name'} = 'имя объекта';
+    $Self->{Translation}->{'Overview over state transitions for'} = 'Обзор изменений состояния для ';
+    $Self->{Translation}->{'State'} = 'Состояние';
+    $Self->{Translation}->{'Next state'} = 'Следующее состояние';
+    $Self->{Translation}->{'Delete'} = 'Удалить';
+    $Self->{Translation}->{'Delete this attachment'} = 'Удалить это вложение';
+    $Self->{Translation}->{'Add a new state transition for'} = 'Добавить новое изменение состояния перехода для';
+    $Self->{Translation}->{'Please select a state!'} = 'Пожалуйста, выберите состояние';
+    $Self->{Translation}->{'Please select a next state!'} = 'Пожалуйста, выберите следующее состояние';
+    $Self->{Translation}->{'Edit a state transition for'} = 'Редактиорвание изменение состояния для';
+    $Self->{Translation}->{'Save'} = 'Сохранить';
+    $Self->{Translation}->{'Do you really want to delete the state transition'} = 'Вы действительно хотите удалить это изменение состояния';
+    $Self->{Translation}->{'from'} = 'от';
+    $Self->{Translation}->{'to'} = 'к';
+    $Self->{Translation}->{'No'} = 'Нет';
+    $Self->{Translation}->{'Yes'} = 'Да';
 
     # Template: AgentITSMCABMemberSearch
-    $Self->{Translation}->{'Search Agent'} = '';
+    $Self->{Translation}->{'Search Agent'} = 'Поиск агента';
 
     # Template: AgentITSMChangeAdd
-    $Self->{Translation}->{'Add Change'} = '';
-    $Self->{Translation}->{'Select Change Template'} = '';
-    $Self->{Translation}->{'Template'} = '';
-    $Self->{Translation}->{'This field is required.'} = '';
-    $Self->{Translation}->{'Time type'} = '';
-    $Self->{Translation}->{'Invalid time type.'} = '';
-    $Self->{Translation}->{'New time'} = '';
-    $Self->{Translation}->{'Create'} = '';
-    $Self->{Translation}->{'ITSM Change'} = 'Change';
-    $Self->{Translation}->{'Title'} = '';
-    $Self->{Translation}->{'Description'} = 'Description';
-    $Self->{Translation}->{'Justification'} = 'Justification';
-    $Self->{Translation}->{'Category'} = 'Category';
-    $Self->{Translation}->{'Input invalid.'} = '';
-    $Self->{Translation}->{'Impact'} = 'Impact';
-    $Self->{Translation}->{'Priority'} = 'Priority';
-    $Self->{Translation}->{'Requested Date'} = '';
-    $Self->{Translation}->{'Invalid date!'} = '';
-    $Self->{Translation}->{'Attachment'} = '';
+    $Self->{Translation}->{'Add Change'} = 'Добавить изменение';
+    $Self->{Translation}->{'Select Change Template'} = 'Выберите шаблон изменения';
+    $Self->{Translation}->{'Template'} = 'Шаблон';
+    $Self->{Translation}->{'This field is required.'} = 'Это поле обязательно для заполнения';
+    $Self->{Translation}->{'Time type'} = 'Тип времени';
+    $Self->{Translation}->{'Invalid time type.'} = 'Недействительный тип времени';
+    $Self->{Translation}->{'New time'} = 'Новое время';
+    $Self->{Translation}->{'Create'} = 'Создать';
+    $Self->{Translation}->{'ITSM Change'} = 'Изменение';
+    $Self->{Translation}->{'Title'} = 'Заголовок';
+    $Self->{Translation}->{'Description'} = 'Описание';
+    $Self->{Translation}->{'Justification'} = 'Обоснование';
+    $Self->{Translation}->{'Category'} = 'Категория';
+    $Self->{Translation}->{'Input invalid.'} = 'Неверный ввод';
+    $Self->{Translation}->{'Impact'} = 'Влияние';
+    $Self->{Translation}->{'Priority'} = 'Приоритет';
+    $Self->{Translation}->{'Requested Date'} = 'Запрошенная дата';
+    $Self->{Translation}->{'Invalid date!'} = 'Неверная дата!';
+    $Self->{Translation}->{'Attachment'} = 'Вложение';
 
     # Template: AgentITSMChangeCABTemplate
-    $Self->{Translation}->{'Save Change CAB as template'} = '';
-    $Self->{Translation}->{'Cancel & close window'} = '';
-    $Self->{Translation}->{'go to involved persons screen'} = '';
-    $Self->{Translation}->{'Template Name'} = '';
-    $Self->{Translation}->{'This field is required'} = '';
-    $Self->{Translation}->{'Invalid Name'} = '';
+    $Self->{Translation}->{'Save Change CAB as template'} = 'Сохранить изменение CAB как шаблон';
+    $Self->{Translation}->{'Cancel & close window'} = 'Отменить и закрыть окно';
+    $Self->{Translation}->{'go to involved persons screen'} = 'перейти к обзору вовлеченных персон';
+    $Self->{Translation}->{'Template Name'} = 'Наименование шаблона';
+    $Self->{Translation}->{'This field is required'} = 'Требуется это поле';
+    $Self->{Translation}->{'Invalid Name'} = 'Неправильное наименование';
 
     # Template: AgentITSMChangeCondition
-    $Self->{Translation}->{'Overview'} = '';
-    $Self->{Translation}->{'Conditions and Actions'} = '';
-    $Self->{Translation}->{'Changed'} = '';
-    $Self->{Translation}->{'Delete Condition'} = '';
-    $Self->{Translation}->{'Add new condition'} = '';
+    $Self->{Translation}->{'Overview'} = 'Обзор';
+    $Self->{Translation}->{'Conditions and Actions'} = 'Условия и Действия';
+    $Self->{Translation}->{'Changed'} = 'Изменен';
+    $Self->{Translation}->{'Delete Condition'} = 'Удалить условие';
+    $Self->{Translation}->{'Add new condition'} = 'Добавить новое условие';
 
     # Template: AgentITSMChangeConditionEdit
-    $Self->{Translation}->{'Edit'} = '';
-    $Self->{Translation}->{'Condition'} = '';
-    $Self->{Translation}->{'Need a valid name.'} = '';
-    $Self->{Translation}->{'A a valid name is needed.'} = '';
-    $Self->{Translation}->{'Matching'} = '';
-    $Self->{Translation}->{'Any expression (OR)'} = '';
-    $Self->{Translation}->{'All expressions (AND)'} = '';
-    $Self->{Translation}->{'Expressions'} = '';
-    $Self->{Translation}->{'Object'} = '';
-    $Self->{Translation}->{'Selector'} = '';
-    $Self->{Translation}->{'Operator'} = '';
-    $Self->{Translation}->{'Value'} = '';
-    $Self->{Translation}->{'No Expressions found.'} = '';
-    $Self->{Translation}->{'Add new expression'} = '';
-    $Self->{Translation}->{'No Actions found.'} = '';
-    $Self->{Translation}->{'Add new action'} = '';
+    $Self->{Translation}->{'Edit'} = 'Редактировать';
+    $Self->{Translation}->{'Condition'} = 'Условие';
+    $Self->{Translation}->{'Need a valid name.'} = 'Требуется правильное наименование';
+    $Self->{Translation}->{'A a valid name is needed.'} = 'Правильное имя необходимо';
+    $Self->{Translation}->{'Matching'} = 'Совпадения';
+    $Self->{Translation}->{'Any expression (OR)'} = 'Любое выражение (OR))';
+    $Self->{Translation}->{'All expressions (AND)'} = 'Все выражения (AND)';
+    $Self->{Translation}->{'Expressions'} = 'Выражения';
+    $Self->{Translation}->{'Object'} = 'Объект';
+    $Self->{Translation}->{'Selector'} = 'Переключатель';
+    $Self->{Translation}->{'Operator'} = 'Оператор';
+    $Self->{Translation}->{'Value'} = 'Значение';
+    $Self->{Translation}->{'No Expressions found.'} = 'Выражений не найдено';
+    $Self->{Translation}->{'Add new expression'} = 'Добавить новое выражение';
+    $Self->{Translation}->{'No Actions found.'} = 'Действий не найдено';
+    $Self->{Translation}->{'Add new action'} = 'Добавить новое действие';
 
     # Template: AgentITSMChangeEdit
 
     # Template: AgentITSMChangeHistory
-    $Self->{Translation}->{'History of'} = '';
-    $Self->{Translation}->{'History Content'} = '';
-    $Self->{Translation}->{'Action'} = '';
-    $Self->{Translation}->{'Details'} = '';
-    $Self->{Translation}->{'Workorder'} = '';
-    $Self->{Translation}->{'User'} = '';
-    $Self->{Translation}->{'Createtime'} = '';
-    $Self->{Translation}->{'Show details'} = '';
-    $Self->{Translation}->{'Show workorder'} = '';
+    $Self->{Translation}->{'History of'} = 'История для';
+    $Self->{Translation}->{'History Content'} = 'Содержание истории';
+    $Self->{Translation}->{'Action'} = 'Действие';
+    $Self->{Translation}->{'Details'} = 'Детали';
+    $Self->{Translation}->{'Workorder'} = 'Задание';
+    $Self->{Translation}->{'User'} = 'Пользователь';
+    $Self->{Translation}->{'Createtime'} = 'Время создание';
+    $Self->{Translation}->{'Show details'} = 'Показать детали';
+    $Self->{Translation}->{'Show workorder'} = 'Показать задание';
 
     # Template: AgentITSMChangeHistoryZoom
-    $Self->{Translation}->{'Detailed history information of'} = '';
-    $Self->{Translation}->{'Modified'} = '';
-    $Self->{Translation}->{'Old Value'} = '';
-    $Self->{Translation}->{'New Value'} = '';
-    $Self->{Translation}->{'Changed by'} = '';
+    $Self->{Translation}->{'Detailed history information of'} = 'Детализированная история для';
+    $Self->{Translation}->{'Modified'} = 'Изменен';
+    $Self->{Translation}->{'Old Value'} = 'Старое значение';
+    $Self->{Translation}->{'New Value'} = 'Новое значение';
+    $Self->{Translation}->{'Changed by'} = 'Изменен ';
 
     # Template: AgentITSMChangeInvolvedPersons
     $Self->{Translation}->{'Involved Persons'} = '';
