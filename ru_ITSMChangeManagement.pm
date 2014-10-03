@@ -1,7 +1,7 @@
 # --
-# Kernel/Language/en_ITSMChangeManagement.pm - provides ru language translation
-# Copyright (C) 2014 Yuriy Kolesnikov <ynkolesnikov at gmail.com>
-# Copyright (C) 2014 Aleksandr Voloshin <alexus1185 at gmail.com>
+# Kernel/Language/ru_ITSMChangeManagement.pm - provides ru language translation
+# Translated by Yuriy Kolesnikov <ynkolesnikov at gmail.com>
+# Translated by Aleksandr Voloshin <alexus1185 at gmail.com>
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (AGPL). If you
