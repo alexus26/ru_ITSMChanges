@@ -1,13 +1,14 @@
 # --
-# Kernel/Language/en_ITSMChangeManagement.pm - translation file
-# Copyright (C) 2001-2014 OTRS AG, http://otrs.com/
+# Kernel/Language/en_ITSMChangeManagement.pm - provides ru language translation
+# Copyright (C) 2014 Yuriy Kolesnikov <ynkolesnikov at gmail.com>
+# Copyright (C) 2014 Aleksandr Voloshin <alexus1185 at gmail.com>
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (AGPL). If you
 # did not receive this file, see http://www.gnu.org/licenses/agpl.txt.
 # --
 
-package Kernel::Language::en_ITSMChangeManagement;
+package Kernel::Language::ru_ITSMChangeManagement;
 
 use strict;
 use warnings;
